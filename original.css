@@ -1,0 +1,28 @@
+.test{
+  background-color: blue;
+}
+
+p {
+  color: blue;
+}
+
+a {
+  color: red;
+}
+
+#my-test {
+  background-color: red;
+}
+
+.foo .bar {
+  color: white;
+  border-radius:20px;
+}
+
+.foo a {
+  color: blue;
+}
+
+.bar #text-input {
+  color: orange;s
+}
